@@ -1,1 +1,4 @@
-cd E:\depi\src\python\session1
+from cli import main_bot
+
+if __name__ == "__main__":
+    main_bot()
